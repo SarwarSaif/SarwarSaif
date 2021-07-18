@@ -1,5 +1,13 @@
 ### Hi there 👋 I am Saif.......
 
+<a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/SarwarSaif3" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://medium.com/@anaveragedataguy" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
+
+<br />
+<br />
+  
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
