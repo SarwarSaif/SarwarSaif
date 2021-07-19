@@ -9,7 +9,8 @@ I undertake data collection, processing and analysis for different data sources 
 - 📫 How to reach me: saifmu6@gmail.com ...
 
 <br />
-### Connect with me if you find interesting 
+
+#### Connect with me if you find interesting 
 
 <a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
