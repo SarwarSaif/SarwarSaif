@@ -1,11 +1,22 @@
 ### Hi there 👋 I am Saif.......
 
+I undertake data collection, processing and analysis for different data sources to help companies understand the use case of their data which eventually facilitate deeper analysis of trends and patterns, reporting and ML modelling.
+
+### Connect with me if you find interesting 
+
 <a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/SarwarSaif3" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@anaveragedataguy" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 
 <br />
+
+- 🔭 I’m currently working on analyzing the trends and patterns of both people and location from WiFi Population Data ...
+- 🌱 I’m currently learning transformers and I loved it ...
+- 👯 I’m looking to collaborate on contributing to python based projects and mentoring ...
+- 💬 Ask me about data science, software development or business ideas ...
+- 📫 How to reach me: saifmu6@gmail.com ...
+
 <br />
   
 ### Languages
