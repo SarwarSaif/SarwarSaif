@@ -8,8 +8,6 @@ I undertake data collection, processing and analysis for different data sources 
 - 💬 Ask me about data science, software development or business ideas ...
 - 📫 How to reach me: saifmu6@gmail.com ...
 
-<br />
-
 #### Connect with me if you find interesting 
 
 <a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -19,7 +17,6 @@ I undertake data collection, processing and analysis for different data sources 
 
 <br />
 
-  
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
