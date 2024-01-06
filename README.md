@@ -1,19 +1,30 @@
-### Hi there 👋 I am Saif.......
+# Hi there 👋 I am Saif.......
 
-I undertake data collection, processing and analysis for different data sources to help companies understand the use case of their data which eventually facilitate deeper analysis of trends and patterns, reporting and ML modelling. I also build and fine-tune predictive models to help increase work or supply chain efficiency.
+## Current Work Experience
 
-- 🔭 I’m currently working on analyzing the trends and patterns of both people and location from WiFi Population Data ...
-- 🌱 I’m currently learning transformers and I loved it ...
-- 👯 I’m looking to collaborate on contributing to python based projects and mentoring ...
-- 💬 Ask me about data science, software development or business ideas ...
-- 📫 How to reach me: saifmu6@gmail.com ...
+As a Platform Engineer at Rakuten Symphony, I build and maintain CI/CD platform infrastructure and tools for software development teams, enabling them to deliver high-quality applications and services for the telco industry. I work with both self-managed and public cloud environments, using technologies such as OpenStack, Kubernetes.
+
+- Build and Maintain a Completely Cloud Native On-prem CICD Platform. 
+- Responsible for providing L3 support and architecture solutions for the CICD toolkit(Jenkins, JFrog, Gitlab, GitHub, SonarQube, Postgres Database, Minio, Cosign etc), including deployment, maintenance, backup, recovery, scaling, and security hardening in ON-Prem(Symcloud) and public cloud(GCP) CI/CD platforms.
+- Responsible for creating standardization, branching strategies, versioning of releases, and automated release process to provide E2E CI/CD workflows.
+- Building and supporting operations for both Staging and Production environments to provide seamless software delivery and deployment.
+- Troubleshooting and debugging complex technical issues related to Kubernetes, networking, and CI/CD tools, finding root causes and facilitating improvements and automated processes.
+
+## Past Work Experience
+- Implemented SOTA paper on computer vision model for automated surveying of congestion from satellite images using RetinaNet, YOLOv5, and achieved more than 95% accuracy.
+- Prepared large historical sales and weather data using regression imputation, moving averages, Z-score standardization, one-hot encoding, and identifying patterns through principal component analysis (PCA), correlation analysis with Pearson correlation coefficient and trends during different weather, built and trained multi-modal demand forecasting model for predicting sales and ads using statistical and machine learning models such as XGBoost, Lasso, Arima, and Ridge Regression and achieved an accuracy of around 97% for 7 days period and 93%+ for 15 days period.
+- Facilitated new B2B solutions for the Client company depending on Multi-modal MaaS Data from various mobile and stationary sources including micro-mobility, buses, parking, and trains in an Asian country by providing all sorts of support from data manipulation, analysis, visualization, and interpretation to show mobility trends in cities.
+- Built scraper applications to collect extensive datasets and integrated them into PowerBI, Tableau, or SPLUNK dashboards, providing valuable insights to diverse stakeholders.
+
+## Contact
+- 💬 Ask me about DevOps, data science, software development or business ideas ...
+- 📫 How to reach me: contact@sarwarsaif.com ...
 
 #### Connect with me if you find interesting 
 
 <a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/SarwarSaif3" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@anaveragedataguy" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 
 <br />
 
