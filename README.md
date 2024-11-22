@@ -1,95 +1,79 @@
-# Hi there 👋 I am Saif.......
+# Hi there 👋 I am Saif...  
 
-## Current Work Experience
+## 🚀 About Me  
+I am a **Senior Director/Engineering Manager** with **5+ years of experience** in **DevOps, CI/CD automation**, and **Data Science**. I specialize in **cloud-native technologies**, building scalable platforms, and leading cross-functional teams to drive innovation.  
 
-As a Platform Engineer at Rakuten Symphony, I build and maintain CI/CD platform infrastructure and tools for software development teams, enabling them to deliver high-quality applications and services for the telco industry. I work with both self-managed and public cloud environments, using technologies such as OpenStack, Kubernetes.
+I am **CKAD certified** with expertise in **Python backend development**, **machine learning**, and **business strategy**. Currently, I’m pursuing an **MBA in International Business** while driving impactful solutions in the tech industry.  
 
-- Build and Maintain a Completely Cloud Native On-prem CICD Platform. 
-- Responsible for providing L3 support and architecture solutions for the CICD toolkit(Jenkins, JFrog, Gitlab, GitHub, SonarQube, Postgres Database, Minio, Cosign etc), including deployment, maintenance, backup, recovery, scaling, and security hardening in ON-Prem(Symcloud) and public cloud(GCP) CI/CD platforms.
-- Responsible for creating standardization, branching strategies, versioning of releases, and automated release process to provide E2E CI/CD workflows.
-- Building and supporting operations for both Staging and Production environments to provide seamless software delivery and deployment.
-- Troubleshooting and debugging complex technical issues related to Kubernetes, networking, and CI/CD tools, finding root causes and facilitating improvements and automated processes.
+---
 
-## Past Work Experience
-- Implemented SOTA paper on computer vision model for automated surveying of congestion from satellite images using RetinaNet, YOLOv5, and achieved more than 95% accuracy.
-- Prepared large historical sales and weather data using regression imputation, moving averages, Z-score standardization, one-hot encoding, and identifying patterns through principal component analysis (PCA), correlation analysis with Pearson correlation coefficient and trends during different weather, built and trained multi-modal demand forecasting model for predicting sales and ads using statistical and machine learning models such as XGBoost, Lasso, Arima, and Ridge Regression and achieved an accuracy of around 97% for 7 days period and 93%+ for 15 days period.
-- Facilitated new B2B solutions for the Client company depending on Multi-modal MaaS Data from various mobile and stationary sources including micro-mobility, buses, parking, and trains in an Asian country by providing all sorts of support from data manipulation, analysis, visualization, and interpretation to show mobility trends in cities.
-- Built scraper applications to collect extensive datasets and integrated them into PowerBI, Tableau, or SPLUNK dashboards, providing valuable insights to diverse stakeholders.
+## 🌟 Current Work Experience  
 
-## Contact
-- 💬 Ask me about DevOps, data science, software development or business ideas ...
-- 📫 How to reach me: contact@sarwarsaif.com ...
+As a **Senior Director at Rakuten Symphony**, I lead a team of professionals to deliver cutting-edge solutions in **CI/CD automation** and **DevSecOps** for the **telecom industry**.  
 
-#### Connect with me if you find interesting 
+### Key Contributions:  
+- **Architected a Cloud-Native CI/CD Platform**: Delivered a highly available on-prem solution that reduced operational costs by over 30% and supported thousands of daily builds.  
+- **Optimized CI/CD Pipelines**: Designed multi-stage pipelines for various technologies, cutting build times by 90% and improving deployment efficiency.  
+- **Standardized CI/CD Practices**: Introduced versioning, branching strategies, and automated releases for seamless end-to-end workflows.  
+- **Enhanced Software Delivery**: Established a global distribution network to reduce software delivery time by 99% and enabled 30+ releases per week.  
+- **Automated Monitoring and Metrics**: Developed a KPI dashboard tracking deployment frequency, lead time, MTTR, and change failure rates, ensuring continuous improvement.  
+- **Streamlined Operations**: Automated complex tasks, reducing operational team size and enabling faster issue resolution in Kubernetes and CI/CD toolsets.  
+- **Cross-Functional Leadership**: Collaborated with product, security, cloud, and QA teams to deliver projects on time while ensuring scalability and reliability.  
 
-<a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/SarwarSaif3" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+---
 
-<br />
+## 📚 Past Work Experience  
 
-### Languages
+### **Data Scientist**  
+- **Machine Learning Models**: Built demand forecasting models using **XGBoost, ARIMA**, and other algorithms, achieving accuracy over **97% for 7-day forecasts**.  
+- **Computer Vision Applications**: Developed solutions using **YOLOv5** and **RetinaNet** for congestion detection with 95%+ accuracy.  
+- **IoT Solutions**: Built real-time environmental trackers integrating **AWS IoT** and **Raspberry Pi**, enabling actionable insights.  
+- **Data Visualization**: Designed dashboards with **PowerBI, Tableau**, and **SPLUNK**, providing critical business insights for stakeholders.  
+- **Multi-Modal Data Integration**: Facilitated mobility trend analysis by integrating data from micro-mobility, public transport, and parking systems.  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+---
 
-### Machine Learning Frameworks/Libraries
+## 🔧 Tech Stack  
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
-### Data Processing/Analysis Libraries
+### **Cloud and Containerization**  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)  
+![OpenStack](https://img.shields.io/badge/-OpenStack-000?&logo=OpenStack)  
 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+### **DevOps Tooling**  
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)  
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)  
+![JFrog](https://img.shields.io/badge/-JFrog-000?&logo=JFrog)  
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)  
 
-### Data Visualization Tool/Libraries
-  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)  
+### **Frameworks and Libraries**  
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)  
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
 
-### Database
-  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)    
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)    
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)    
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-  
-### Web Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-  
-### Tools
-  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
+![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon-DynamoDB)  
 
-<a href="https://www.sarwarsaif.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=sarwarsaif&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarsaif&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+---
 
-<!--
-**SarwarSaif/SarwarSaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact  
+💬 **Ask Me About**: DevOps, Cloud-Native Platforms, Data Science, or Business Strategy!  
+📧 **Email**: [contact@sarwarsaif.com](mailto:contact@sarwarsaif.com)  
+🌐 **Portfolio**: [sarwarsaif.com](https://www.sarwarsaif.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Social Links  
+<a href="https://linkedin.com/in/sarwarsaif" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>  
+<a href="https://www.instagram.com/sarwar.mugdho/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>  
+<a href="https://twitter.com/SarwarSaif3" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>  
