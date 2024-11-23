@@ -12,7 +12,6 @@ I am **CKAD certified** with expertise in **Python backend development**, **mach
   <img src="personal_survey_weakness_2024.png" alt="Weakness" height="200" />
   <img src="personal_survey_improvement_2024.png" alt="Improvments Needed" height="300" />
 </div>
-
 ---
 
 ## 🌟 Current Work Experience  
