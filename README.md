@@ -6,6 +6,11 @@ I am a **Senior Director/Engineering Manager** with **5+ years of experience** i
 I am **CKAD certified** with expertise in **Python backend development**, **machine learning**, and **business strategy**. Currently, I’m pursuing an **MBA in International Business** while driving impactful solutions in the tech industry.  
 
 ## What My Team Think About Me?
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="personal_survey_strenght_2024.png" alt="Strength" width="300" />
+  <img src="personal_survey_weakness_2024.png" alt="Weakness" width="300" />
+</div>
 ![Strength](personal_survey_strenght_2024.png)
 ![Weakness](personal_survey_weakness_2024.png)
 ![Improvments Needed](personal_survey_improvement_2024.png)
