@@ -10,11 +10,8 @@ I am **CKAD certified** with expertise in **Python backend development**, **mach
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="personal_survey_strenght_2024.png" alt="Strength" width="300" />
   <img src="personal_survey_weakness_2024.png" alt="Weakness" width="300" />
+  <img src="personal_survey_improvement_2024.png" alt="Improvments Needed" width="300" />
 </div>
-![Strength](personal_survey_strenght_2024.png)
-![Weakness](personal_survey_weakness_2024.png)
-![Improvments Needed](personal_survey_improvement_2024.png)
-
 
 ---
 
