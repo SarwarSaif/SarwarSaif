@@ -8,9 +8,9 @@ I am **CKAD certified** with expertise in **Python backend development**, **mach
 ## What My Team Think About Me?
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="personal_survey_strenght_2024.png" alt="Strength" width="300" />
-  <img src="personal_survey_weakness_2024.png" alt="Weakness" width="300" />
-  <img src="personal_survey_improvement_2024.png" alt="Improvments Needed" width="300" />
+  <img src="personal_survey_strenght_2024.png" alt="Strength"height="200"/>
+  <img src="personal_survey_weakness_2024.png" alt="Weakness" height="200" />
+  <img src="personal_survey_improvement_2024.png" alt="Improvments Needed" height="300" />
 </div>
 
 ---
